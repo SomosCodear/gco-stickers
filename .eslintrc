@@ -1,0 +1,12 @@
+{
+  "env": {
+    "browser": true
+  },
+  "extends": ["airbnb", "airbnb/hooks"],
+  "rules": {
+    "import/no-extraneous-dependencies": "off",
+    "import/prefer-default-export": "off",
+    "class-methods-use-this": "off",
+    "jsx-a11y/label-has-associated-control": "off"
+  }
+}
