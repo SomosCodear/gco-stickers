@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Python",
+    "filename": "python.jpg",
+    "tags": ["interpreted", "language"],
+    "category": "lenguaje"
+  },
+  {
+    "name": "React",
+    "filename": "react.jpg",
+    "tags": ["javascript", "framework"],
+    "category": "framework"
+  }
+]
